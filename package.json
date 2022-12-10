@@ -11,6 +11,6 @@
   "author": "C F. <cfdev312@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "reveal-md": "^3.0.4"
+    "reveal-md": "^5.4.0"
   }
 }
